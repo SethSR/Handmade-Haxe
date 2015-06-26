@@ -4,7 +4,7 @@
     window: {
       width:960,
       height:640,
-      title:'luxe mgs project',
+      title:'luxe handmade hero project',
       fullscreen:false,
       resizable:true,
       borderless:false
@@ -12,19 +12,18 @@
   },
 
   project : {
-    name : 'Mecha Gunbuster Squad',
+    name : 'Handmade Hero',
     version : '1.0.0',
     author : 'luxeengine',
 
     app : {
-      name : 'luxe_mgs',
-      package : 'com.luxeengine.mgs'
+      name : 'luxe_hh',
+      package : 'com.luxeengine.hh'
     },
 
     build : {
       dependencies : {
         luxe : '*',
-        noisehx : '*',
       }
     },
 
