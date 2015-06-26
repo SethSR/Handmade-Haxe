@@ -23,7 +23,7 @@
 
     build : {
       dependencies : {
-        luxe : '*',
+        snow : '*',
       }
     },
 
