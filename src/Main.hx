@@ -2,7 +2,6 @@
  * Following HandmadeHero.org
 */
 
-class Main {
-	static public function main() {
-	}
+class Main extends snow.App {
+	override public function ready() {}
 }
